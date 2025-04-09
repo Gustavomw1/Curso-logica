@@ -1,4 +1,4 @@
-public class index {
+public class inde {
     public static void main(String[] args) {
         char masculino = 'A';
         char feminino = 'A';
